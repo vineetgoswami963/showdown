@@ -1692,4 +1692,11 @@ footer .sub-footer p {
   footer .social {
     text-align: center;
   }
+  .footer-content .right-content h2 em {
+    font-style: normal;
+    color: black;
+  }
+  .footer-content .right-content p {
+    color: black;
+  }
 }
